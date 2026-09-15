@@ -10,7 +10,7 @@
 
 ```text
 请从这个 GitHub 仓库下载并安装 say-it-clearly 技能：
-https://github.com/zealwander1014-crypto/say-it-clearly
+https://github.com/Zwanke/say-it-clearly
 
 请先阅读 README.md 和根目录的 SKILL.md，再安装到你当前使用的 Agent 支持的全局技能目录，让我以后在其他会话中也能使用。
 技能位于仓库根目录，安装后的文件夹名称应为 say-it-clearly。
